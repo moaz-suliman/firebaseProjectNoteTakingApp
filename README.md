@@ -2,7 +2,7 @@
 
 app for taking note 
 
-##log in page
+## log in page
 ![image](https://github.com/user-attachments/assets/4e256627-d63c-4d14-a808-abf46bf3b19f)
 ## sign in page 
 ![image](https://github.com/user-attachments/assets/a5934379-17a2-489b-aa50-be0a27428ba5)
